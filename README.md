@@ -1,1 +1,1 @@
-# 01-challenge-html-css-git-code-refactor
+# 01-html-css-code-refactor
