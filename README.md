@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project, I undertook the task of refactoring the base code for the Horiseon website a Marketing Agency, to ensure that all HTML elements adhere to accessibility standards. The goal was to make the website more inclusive and user-friendly for all visitors, including those with disabilities.
+In this project, I undertook the task of refactoring the base code for Horiseon website, to ensure that all HTML elements adhere to accessibility standards. The goal was to make the website more inclusive and user-friendly for all visitors, including those with disabilities.
 
 ## Key Accomplishments
 
