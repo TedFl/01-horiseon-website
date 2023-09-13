@@ -1,4 +1,4 @@
-# 01-horiseon-website-project
+# 01-horiseon-website
 
 ## Project Overview
 
